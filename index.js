@@ -58,7 +58,7 @@ const createFareMultiplier = function(integer) {
 };
 
 // fareDoubler
-const fareDoubler = createFareMultiplier(2);
+const fareDoubler = createFareMultiplier(6);
 
 // fareTripler
 const fareTripler = createFareMultiplier(3);
