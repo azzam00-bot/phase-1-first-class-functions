@@ -69,7 +69,7 @@ const selectDifferentDrivers = function(drivers, returnDrivers) {
 };
 
 // Call returnFirstTwoDrivers
-const drivers = ['John', 'Jane', 'Mike', 'Sarah'];
+const drivers = ['John', 'Jane', 'Mike', 'Sarah' , 'azzam'];
 const firstTwoDrivers = returnFirstTwoDrivers(drivers);
 console.log(firstTwoDrivers); // Output: ['John', 'Jane']
 
